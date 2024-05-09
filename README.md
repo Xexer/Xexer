@@ -4,5 +4,5 @@ I am an ABAP developer 😍 and I work a lot with the Business Technology Platfo
 
 Actual projects:
 - [ABAP Feature Matrix](https://github.com/Xexer/abap-feature-matrix) - Overview of the features for every release in a compact overview.
-- [ABAP Cloud](https://software-heroes.com/en/blog/abap-cloud-introduction) - A complexe topic and much to learn for an ABAP developer.
 - [shortMe](https://software-heroes.com/en/app-info/short-me) - Free URL shortener, where you can also link your own domain.
+- [My Community](https://software-heroes.com/app-info/my-community) - (Maybe) a better SAP Community.
