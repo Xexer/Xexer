@@ -4,4 +4,4 @@ I am an ABAP developer 😍 and I work a lot with the Business Technology Platfo
 
 Actual projects:
 - [CDS Field Mapping](https://software-heroes.com/en/abap-cds-field-mapping) - Get informations about new Core Data Services and Mappings from old field to new field.
-- [ABAP SELECT Converter](https://software-heroes.com/en/abap-select-converter) - COnvert SELECT statments from Standard ABAP to ABAP Cloud.
+- [ABAP SELECT Converter](https://software-heroes.com/en/abap-select-converter) - Convert SELECT statments from Standard ABAP to ABAP Cloud.
